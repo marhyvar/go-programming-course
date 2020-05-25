@@ -10,5 +10,5 @@ func main() {
 	var word string
 	flag.StringVar(&word, "word", "foo", "any word you like")
 	flag.Parse()
-	fmt.Println("The word has ", len(word), " letters.")
+	fmt.Printf("The word has %d letters.\n", len(word))
 }
