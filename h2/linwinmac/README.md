@@ -11,4 +11,4 @@ CGO_ENABLED=0 GOARCH=amd64 GOOS=darwin go build
 
  Alla on kuvankaappaus tilanteesta, jossa linuxilla tehty staattinen käännös toimii Windows-alustalla.
 
-![kuva](linwinmac.PNG)
+![kuva](linwinmac.png)
