@@ -5,7 +5,7 @@ How to use the program in your terminal (assuming you have [go](https://golang.o
 ```
 git clone https://github.com/marhyvar/go-programming-course.git
 cd go-programming-course/h3/server
-go build words.go
+go build server.go
 go run server.go
 ```
 Open your browser and go to: http://localhost:8090/dogs
