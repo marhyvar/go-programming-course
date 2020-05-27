@@ -12,3 +12,9 @@ go build lottorivi.go
 ./lottorivi 
 ```
 
+## Links
+
+[Generating random numbers and strings in go](https://flaviocopes.com/go-random/)
+
+[Go by Example: Random Numbers](https://gobyexample.com/random-numbers)
+

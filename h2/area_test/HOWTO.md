@@ -15,3 +15,8 @@ How to run the tests:
 ```
 go test -v // v for verbose
 ```
+## Links
+
+[Golang tests - writing unit tests](https://blog.alexellis.io/golang-writing-unit-tests/)
+
+[Go by example - Testing](https://gobyexample.com/testing)

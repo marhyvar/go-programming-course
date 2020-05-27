@@ -11,3 +11,11 @@ cd go-programming-course/h2/words
 go build words.go
 ./words --filename <name-of-file>
 ```
+
+## Links 
+
+[Read file with a scanner](https://ispycode.com/Blog/golang/2016-10/Read-file-with-a-scanner)
+
+[Golang Scanner Package](https://linuxhint.com/golang-scanner-package/)
+
+[How to count words in file](https://stackoverflow.com/questions/55441815/how-to-count-words-in-file)
