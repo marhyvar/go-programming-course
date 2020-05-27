@@ -15,3 +15,7 @@
 ## Aihe-ehdotus 2) Viimeisin säätieto
 
 - ohjelma, joka hakee viimeisimmän säätiedon (lämpötila, tuuli, pilvisyys yms.) [Ilmatieteen laitoksen julkisesta Apista](https://www.ilmatieteenlaitos.fi/observation-data?station=101004) ja näyttää nämä tiedot käyttäjälle
+
+## Linkit
+
+[Golang basics - fetch JSON from an API](https://blog.alexellis.io/golang-json-api-client/)
